@@ -86,3 +86,5 @@ const index = TinySearch.import(data)
 - fuse.js (fuzzy only)
 
 MIT • [npm](https://www.npmjs.com/package/tinysearch)
+
+# PR Merge: 2025-10-28 14:28:05
